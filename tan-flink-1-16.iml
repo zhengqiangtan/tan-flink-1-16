@@ -51,8 +51,8 @@
     <orderEntry type="library" name="Maven: org.apache.flink:flink-optimizer:1.16.0" level="project" />
     <orderEntry type="library" name="Maven: commons-cli:commons-cli:1.5.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.flink:flink-test-utils:1.16.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.apache.flink:flink-table-common:1.16.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: com.ibm.icu:icu4j:67.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.flink:flink-table-common:1.16.0" level="project" />
+    <orderEntry type="library" name="Maven: com.ibm.icu:icu4j:67.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.flink:flink-test-utils-junit:1.16.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.junit.vintage:junit-vintage-engine:5.8.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-engine:1.8.1" level="project" />
@@ -80,6 +80,22 @@
     <orderEntry type="library" scope="TEST" name="Maven: net.bytebuddy:byte-buddy:1.12.10" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.flink:flink-statebackend-changelog:1.16.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.flink:flink-statebackend-common:1.16.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.flink:flink-table-runtime:1.16.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.flink:flink-table-api-java:1.16.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.flink:flink-table-planner-loader:1.16.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.flink:flink-table-api-bridge-base:1.16.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.flink:flink-table-api-java-bridge:1.16.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.flink:flink-cep:1.16.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.zookeeper:zookeeper:3.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-log4j12:1.6.1" level="project" />
+    <orderEntry type="library" name="Maven: log4j:log4j:1.2.16" level="project" />
+    <orderEntry type="library" name="Maven: jline:jline:0.9.94" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty:3.10.5.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.flink:flink-connector-kafka:1.16.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.flink:flink-connector-base:1.16.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.kafka:kafka-clients:3.2.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.github.luben:zstd-jni:1.5.2-1" level="project" />
+    <orderEntry type="library" name="Maven: com.googlecode.aviator:aviator:5.3.3" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.logging.log4j:log4j-slf4j-impl:2.17.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.logging.log4j:log4j-api:2.17.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.logging.log4j:log4j-core:2.17.1" level="project" />
